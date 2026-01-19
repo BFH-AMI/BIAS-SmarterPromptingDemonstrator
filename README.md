@@ -12,7 +12,8 @@ This demonstrator utilizes the Mistral API and a two-stage optimization process 
 
 ## Related Papers
 
-TODO List of Papers here
+Ikae, C., & Kurpicz-Briki, M. (2025, März 20). Measuring Bias in German Prompts to GPT Models Using Contact Hypothesis. Proceedings of the 2nd Workshop on AI bias: Measurements, Mitigation, Explanation Strategies (AIMMES 2025), Barcelona, Spain. https://doi.org/10.5281/zenodo.15649157
+
 
 ## Features
 
