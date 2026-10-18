@@ -1,10 +1,11 @@
 # NLP Demonstrator: Smart Prompting
 
-This work is part of the Europe Horizon project BIAS funded by the European Commission, and has received funding from the Swiss State Secretariat for Education, Research and Innovation (SERI).
-All work from the BIAS Project: https://github.com/BFH-AMI/BIAS
-
 This BIAS NLP Demonstrator is part of the Smarter Prompts for Less Biased Answers from LLMs demonstrators, and optimizes user prompts to obtain less biased results when prompting LLMs.
 Drawing on the latest research from the ethnographic field studies and NLP research of the BIAS project into how LLMs mirror societal biases, we created a multi-model pipeline that reframes user prompts. This tool was developed in collaboration with scholars from the social sciences and humanities (SSH).
+
+## Acknowledgements
+This work is part of the Europe Horizon project BIAS funded by the European Commission, and has received funding from the Swiss State Secretariat for Education, Research and Innovation (SERI).
+All work from the BIAS Project: https://github.com/BFH-AMI/BIAS
 
 ## Overview
 
