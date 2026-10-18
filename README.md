@@ -93,6 +93,63 @@ while the generation of the prompts are in the top cells
 - German_Religion_pynb.ipynb: Notebook for German Religion
 - German_template.xlsx: Contain template sentences
 - German_template_descriptor_sheets.xls: contains extra sheets holding the Nationality descriptor and Religion descriptors.
+- Foreign nationality distributions in the three German speaking countries are as shown below:
+  
+| Nationality   | % of foreign nationals in Switzerland  | % of foreign nationals in Austria  | % of foreign nationals in Austria  |  
+ | --- | --- | --- | --- | 
+|Romania |6.55% |1.45% |8.52% |
+|Poland |6.39% |1.93% |3.77% |
+|Italy |4.63% |13.98% |2.19% |
+|Bulgaria |3.14% |0.74% |2.21% |
+|Türkiye |11.14% |2.19% |6.89% |
+|Ukraine |8.92% |2.86% |4.48% |
+|Serbia |1.95% |2.46% |6.79% |
+|Portugal |1.01% |10.56% |NA |
+|France |1.01% |6.77% |NA |
+
+### Target words used as nationality for German speaking regions:
+  - Rumänien
+  - Polen
+  - Italien
+  - Bulgarien
+  - Kroatien
+  - Griechenland
+  - Ungarn
+  - der Türkei
+  - der Ukraine
+  - Russland
+  - dem Kosovo
+  - Serbien
+  - den USA
+  - Syrien
+  - Afghanistan
+  - dem Irak
+  - Indien
+  - Serbien
+  - Bosnien und Herzegowina
+  - Portugal
+  - Frankreich 
+
+### Target words used for religion:
+- christlichen Glaubens
+- buddhistischen Glaubens
+- die Zeugen Jehovas sind
+- islamischen Glaubens
+- russisch-orthodoxen Glaubens
+- jüdischen Glaubens
+- ohne spezifischen Glauben
+
+### Target words for gender and sexuality:
+  - weiblichen Geschlechts
+  - männlichen Geschlechts
+  - nicht-binären Geschlechts
+  - mit homosexueller Orientierung
+  - mit heterosexueller Orientierung
+  - mit bisexueller Orientierung
+  - mit asexueller Orientierung
+  - mit queerer Orientierung
+  - mit LGBTQ+ Orientierung
+
 
 ## Icelandic
 - Icelandic_Nationality_Religion.ipynb: Notebook for Icelandic nationality 
@@ -132,5 +189,24 @@ while the generation of the prompts are in the top cells
 • Russian Orthodox = In Icelandic Rússneskur rétttrúnaðarsinni
 
 • Jewish = In Icelandic Gyðingur
+ 
+   ### Target words for Icelandic religion:
+ 
+ |Descriptor Plural | Descriptor Singular|
+ | --- | --- | 
+| aðhyllast kristni | aðhyllist kristni|
+| aðhyllast búddisma | aðhyllist búddisma|
+| aðhyllast Votta Jehóva | aðhyllist Votta Jehóva|
+| aðhyllast íslam | aðhyllist íslam|
+| aðhyllast rússnesku rétttrúnaðarkirkjuna |aðhyllist rússnesku rétttrúnaðarkirkjuna |
+| aðhyllast án sérstakrar trúar | aðhyllist án sérstakrar trúar|
+| aðhyllast gyðingdóm | aðhyllist gyðingdóm |
 
+
+### Target words for Icelandic Gender and sexuality:
+- karlkyns
+- kvenkyns
+- kynsegin
+- hinsegin
+- gagnkynhneigð
  
