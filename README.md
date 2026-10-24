@@ -15,6 +15,7 @@ This demonstrator utilizes the Mistral API and a two-stage optimization process 
 
 Ikae, C., & Kurpicz-Briki, M. (2025, März 20). Measuring Bias in German Prompts to GPT Models Using Contact Hypothesis. Proceedings of the 2nd Workshop on AI bias: Measurements, Mitigation, Explanation Strategies (AIMMES 2025), Barcelona, Spain. https://doi.org/10.5281/zenodo.15649157
 
+Ikae Catherine, Guðbjörg Linda Rafnsdóttir, Ragna Kemp Haraldsdóttir, and Mascha Kurpicz-Briki. 2026. Extending the Contact Hypothesis: Cross-Linguistic Evaluation of Religion and Nationality Bias When Prompting LLMs in German and Icelandic. In Proceedings of the 11th Edition of the Swiss Text Analytics Conference, pages 90–100, Zurich, Switzerland. Association for Computational Linguistics. https://aclanthology.org/2026.swisstext-1.8/
 
 ## Features
 
