@@ -17,6 +17,8 @@ Ikae, C., & Kurpicz-Briki, M. (2025, März 20). Measuring Bias in German Prompts
 
 Ikae Catherine, Guðbjörg Linda Rafnsdóttir, Ragna Kemp Haraldsdóttir, and Mascha Kurpicz-Briki. 2026. Extending the Contact Hypothesis: Cross-Linguistic Evaluation of Religion and Nationality Bias When Prompting LLMs in German and Icelandic. In Proceedings of the 11th Edition of the Swiss Text Analytics Conference, pages 90–100, Zurich, Switzerland. Association for Computational Linguistics. https://aclanthology.org/2026.swisstext-1.8/
 
+Kurpicz-Briki, M., Ecclesia, S., Englund Sandvik, F., Sørensen, S. Ø., Ikae, C., Puttick, A., Kharas, M., & Søraa, R. A. (2026). Be Less BIASed: With a Research-Inspired Multi-Model Pipeline Towards Less Biases in LLM Outputs. Zenodo. https://doi.org/10.5281/zenodo.18252585
+
 ## Features
 
 - **Two-stage optimization**: Two specialized agents sequentially refine the input prompt
